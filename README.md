@@ -8,3 +8,17 @@
 - 📫 How to reach me: Linkedin ;
 - ⚡ Fun fact: I love sports, especially extreme sports that have any kind of boards or slide.
 ---
+<details>
+  
+<summary>My top languages</summary>
+
+| Languages |
+|-----------|
+| JavaScript|
+| PHP       |
+| SQL       |
+| Python    |
+| CSS       |
+| HTML    |
+
+</details>
