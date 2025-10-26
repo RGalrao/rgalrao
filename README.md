@@ -10,7 +10,7 @@
 ---
 <details>
   
-<summary>My top languages</summary>
+<summary>My languages</summary>
 
 | Languages |
 |-----------|
