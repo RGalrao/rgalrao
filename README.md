@@ -19,6 +19,6 @@
 | SQL       |
 | Python    |
 | CSS       |
-| HTML    |
+| HTML      |
 
 </details>
