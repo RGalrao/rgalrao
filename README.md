@@ -20,8 +20,6 @@ Full-Stack Developer • Vilamoura, Portugal [![LinkedIn](https://img.shields.io
 
 ## Actively developing Java skills
 
----
-
 ## 🌱 Open to Opportunities
-Currently open to **junior developer** and **trainee positions** in **Porto/Faro area** or remote opportunities.
+Currently open to **junior developer** and **trainee positions** in **Porto/Faro area or remote**  opportunities.
 >
