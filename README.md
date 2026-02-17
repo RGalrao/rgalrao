@@ -1,24 +1,38 @@
 ## Hi there 👋
+# RODRIGO GALRÃO
+Full-Stack Developer • Vilamoura, Portugal  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/r-galrao/) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgalrao97@gmail.com)
 
-- 🔭 I’m currently working on my **personal portfolio**;
-- 🌱 I’m transitioning to become a **Full Stack Web Developer**;
-- 👯 I’m looking to collaborate on projects to perfect my learnings;
-- 🤔 I’m looking for help with finding new projects to start with;
-- 💬 Ask me about anything you need or anything you would like to know about me; 
-- 📫 How to reach me: Linkedin ;
-- ⚡ Fun fact: I love sports, especially extreme sports.
 ---
-<details>
-  
-<summary>My languages</summary>
 
-| Languages |
-|-----------|
-| JavaScript|
-| PHP       |
-| SQL       |
-| Python    |
-| CSS       |
-| HTML      |
+## 🛠️ Tech Stack
 
-</details>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML_CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Frameworks & Tools
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
+---
+
+## 🔗 Other Projects
+Actively developing Java skills:  
+[Java-Modules](#)
+
+---
+
+## 🌱 Open to Opportunities
+Currently open to **junior developer** and **trainee positions** in **Porto/Faro area** or remote opportunities.
+>
