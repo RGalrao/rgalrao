@@ -21,15 +21,9 @@ Full-Stack Developer • Vilamoura, Portugal
 
 ---
 
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-
----
-
 ## 🔗 Other Projects
 Actively developing Java skills:  
-[Java-Modules](#)
+[View Repository →](https://github.com/yourusername/Java-Modules)
 
 ---
 
