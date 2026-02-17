@@ -21,9 +21,7 @@ Full-Stack Developer • Vilamoura, Portugal
 
 ---
 
-## 🔗 Other Projects
-Actively developing Java skills:  
-[View Repository →]([https://github.com/yourusername/ExploitIGL](https://github.com/RGalrao/Java-Modules))
+## Actively developing Java skills
 
 ---
 
