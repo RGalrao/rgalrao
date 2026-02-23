@@ -24,5 +24,5 @@ Full-Stack Developer • Vilamoura, Portugal
 ---
 
 ## 🌱 Open to Opportunities
-Currently open to **junior developer** and **trainee positions** in **Porto/Faro area or remote**  opportunities.
+Currently open to **junior developer** and **trainee positions** in **Porto,Faro area or remote**  opportunities.
 >
